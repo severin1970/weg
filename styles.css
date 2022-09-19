@@ -1,0 +1,25 @@
+.col-xs-3 {
+    padding: 0 50px;
+    width: 20%
+}
+
+.row {
+padding:0% 0 !important;
+}
+
+bodx {
+    padding-top: 5px !important;
+}
+
+.navbar-logo img {
+    height: 50px;
+  }
+  
+  
+  #einfache-grafik {
+    padding: 50px 100px !important;
+  }
+
+  table.dataTable th.dt-right, table.dataTable td.dt-right, td.dt-left, td {
+    text-align: center !important;
+  }
